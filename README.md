@@ -233,11 +233,6 @@ Alternativ kann der Bot in Docker, auf einem VPS oder über ein Hosting-Panel be
 - Daily nuke 0:00 & 15:00 UTC+01:00
 - Added `!nukeall` command
 
-## Community
-
-Der offizielle Community-Server ist hier erreichbar:
-
-- [Official Discord Server](https://discord.gg/visualise)
 
 ## Lizenz
 
